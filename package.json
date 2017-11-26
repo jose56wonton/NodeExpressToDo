@@ -1,0 +1,25 @@
+{
+  "name": "nodeexpresstodo",
+  "version": "1.0.0",
+  "description": "As is tradition, I must create a todo application. I know this is a very basic app, but there is more to come.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose56wonton/NodeExpressToDo.git"
+  },
+  "author": "Joshua Wootonn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jose56wonton/NodeExpressToDo/issues"
+  },
+  "homepage": "https://github.com/jose56wonton/NodeExpressToDo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
